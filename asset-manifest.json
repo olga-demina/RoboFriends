@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/olga-demina/RoboFriends/static/css/main.5b210269.chunk.css",
+    "main.js": "/olga-demina/RoboFriends/static/js/main.eb7e9edd.chunk.js",
+    "main.js.map": "/olga-demina/RoboFriends/static/js/main.eb7e9edd.chunk.js.map",
+    "runtime-main.js": "/olga-demina/RoboFriends/static/js/runtime-main.57cedeff.js",
+    "runtime-main.js.map": "/olga-demina/RoboFriends/static/js/runtime-main.57cedeff.js.map",
+    "static/css/2.31461e4f.chunk.css": "/olga-demina/RoboFriends/static/css/2.31461e4f.chunk.css",
+    "static/js/2.72964fea.chunk.js": "/olga-demina/RoboFriends/static/js/2.72964fea.chunk.js",
+    "static/js/2.72964fea.chunk.js.map": "/olga-demina/RoboFriends/static/js/2.72964fea.chunk.js.map",
+    "static/js/3.801b1b15.chunk.js": "/olga-demina/RoboFriends/static/js/3.801b1b15.chunk.js",
+    "static/js/3.801b1b15.chunk.js.map": "/olga-demina/RoboFriends/static/js/3.801b1b15.chunk.js.map",
+    "index.html": "/olga-demina/RoboFriends/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/olga-demina/RoboFriends/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.5b210269.chunk.css.map": "/olga-demina/RoboFriends/static/css/main.5b210269.chunk.css.map",
+    "static/js/2.72964fea.chunk.js.LICENSE.txt": "/olga-demina/RoboFriends/static/js/2.72964fea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57cedeff.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.72964fea.chunk.js",
+    "static/css/main.5b210269.chunk.css",
+    "static/js/main.eb7e9edd.chunk.js"
+  ]
+}
